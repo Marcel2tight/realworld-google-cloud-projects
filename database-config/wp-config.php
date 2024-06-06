@@ -26,10 +26,10 @@ define( 'DB_NAME', 'wordpressdb' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Prince' );
+define( 'DB_PASSWORD', 'admin' );
 
 /** Database hostname */
-define( 'DB_HOST', '34.170.111.186' );
+define( 'DB_HOST', '34.29.173.104' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
